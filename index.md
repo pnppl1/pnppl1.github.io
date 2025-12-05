@@ -37,5 +37,4 @@ title: "Обо мне"
 
 ## Мои проекты
 
-### DataLens проекты
-- [Анализ продаж](projects/datalens-sales/)
+### [DataLens проекты](projects.md)
