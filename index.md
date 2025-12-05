@@ -20,7 +20,7 @@ title: "Обо мне"
 
 ### **Data Engineering**
 - ETL-подходы к обработке данных
-- Airflow, Apache Spark, PySpark - [проект  в GitHub](https://github.com/pnppl1/apr25_bde_int_supply)
+- Airflow, Apache Spark, PySpark
 
 ### **Инфраструктура**
 - Docker, Linux
@@ -38,3 +38,4 @@ title: "Обо мне"
 ## Мои проекты
 
 ### [DataLens проекты](dashboards.md)
+### [Data Engineering проект в GitHub](https://github.com/pnppl1/apr25_bde_int_supply)
