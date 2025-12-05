@@ -1,0 +1,9 @@
+title: Портфолио аналитика данных
+description: Проекты, дашборды и навыки
+theme: minima
+
+# Навигация
+header_pages:
+  - index.md
+  - dashboards.md
+  - projects.md
