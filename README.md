@@ -14,4 +14,3 @@ https://pnppl1.github.io/
 
 ## Контакты
 - Email: vlgaav1@gmail.com
-- Telegram: @pnppl1
