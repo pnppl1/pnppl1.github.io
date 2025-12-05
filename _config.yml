@@ -5,3 +5,6 @@ theme: minima
 # Навигация
 header_pages:
   - index.md
+
+sass:
+  style: compressed
