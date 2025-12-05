@@ -5,5 +5,3 @@ theme: minima
 # Навигация
 header_pages:
   - index.md
-  - dashboards.md
-  - projects.md
