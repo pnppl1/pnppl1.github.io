@@ -37,4 +37,4 @@ title: "Обо мне"
 
 ## Мои проекты
 
-### [DataLens проекты](projects.md)
+### [DataLens проекты](dashboards.md)
